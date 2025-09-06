@@ -1,4 +1,5 @@
-## Modo de prepara : Massa
+## Modo de preparo 
+### Massa
 
  1. Separar as gemas e reserva claras
  2. Penerar o açúcar. Adicionando aos poucos as gemas enquanto bate.
@@ -9,7 +10,7 @@
  7. Adicione o fermento e mescle. Unte uma forma com manteiga e farinha. 
  8. Com o forno já pré aquecido à 180 graus. Deixe no forno por 25 minutos  
 
- ### Modo de preparo : Cobertura
+ ### Cobertura
 
  
 * Misture os leites e despeje no bolo ainda quente. Coloque o coco ralado a gosto por cima do bolo.
